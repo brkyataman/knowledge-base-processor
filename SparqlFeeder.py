@@ -11,10 +11,10 @@ def get_db_connection():
 
 
 def insert_to_sparql(query):
-    sparql = SPARQLWrapper("http://localhost:3030/demo2/update")
+    sparql = SPARQLWrapper("http://localhost:3030/neuroboun/update")
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
-    # sparql.setMethod('POST')
+    #sparql.setMethod('POST')
     results = sparql.query().convert()
     return results
 
@@ -43,6 +43,21 @@ def get_ontologyterms():
         con.execute(query)
         rows = con.fetchall()
     return rows
+
+
+def insert_bulk(query):
+    prefix = """
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+        PREFIX owl: <http://www.w3.org/2002/07/owl#>
+        PREFIX meshv: <http://id.nlm.nih.gov/mesh/vocab#>
+        PREFIX mesh: <http://id.nlm.nih.gov/mesh/>
+        PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+    """
+    query = prefix + query
+    insert_to_sparql(query)
 
 
 def insert_phrase_article_relation(article_id, phrases):
@@ -154,5 +169,5 @@ def feed_db_with_article_data(article_id):
 
 
 #22173014
-feed_ontology_terms()
-feed_db_with_article_data(22173014)
+#feed_ontology_terms()
+#feed_db_with_article_data(22173014)

@@ -1,0 +1,2646 @@
+
+    INSERT {
+       mesh:D001921 meshv:broaderDescriptor mesh:D002490 .
+       mesh:D001921 rdfs:label "Brain"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D008032 meshv:broaderDescriptor mesh:D001921 .
+       mesh:D008032 rdfs:label "Limbic System"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D000679 meshv:broaderDescriptor mesh:D008032 .
+       mesh:D000679 rdfs:label "Amygdala"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066272 meshv:broaderDescriptor mesh:D000679 .
+       mesh:D066272 rdfs:label "Basolateral Nuclear Complex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066274 meshv:broaderDescriptor mesh:D000679 .
+       mesh:D066274 rdfs:label "Central Amygdaloid Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066276 meshv:broaderDescriptor mesh:D000679 .
+       mesh:D066276 rdfs:label "Corticomedial Nuclear Complex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066277 meshv:broaderDescriptor mesh:D066276 .
+       mesh:D066277 rdfs:label "Periamygdaloid Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007031 meshv:broaderDescriptor mesh:D008032 .
+       mesh:D007031 rdfs:label "Hypothalamus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007033 meshv:broaderDescriptor mesh:D007031 .
+       mesh:D007033 rdfs:label "Hypothalamus, Middle"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D001111 meshv:broaderDescriptor mesh:D007033 .
+       mesh:D001111 rdfs:label "Arcuate Nucleus of Hypothalamus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D004302 meshv:broaderDescriptor mesh:D007033 .
+       mesh:D004302 rdfs:label "Dorsomedial Hypothalamic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007030 meshv:broaderDescriptor mesh:D007033 .
+       mesh:D007030 rdfs:label "Hypothalamo-Hypophyseal System"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D008473 meshv:broaderDescriptor mesh:D007030 .
+       mesh:D008473 rdfs:label "Median Eminence"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010902 meshv:broaderDescriptor mesh:D007030 .
+       mesh:D010902 rdfs:label "Pituitary Gland"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052716 meshv:broaderDescriptor mesh:D010902 .
+       mesh:D052716 rdfs:label "Pituitary Gland, Intermediate"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052717 meshv:broaderDescriptor mesh:D052716 .
+       mesh:D052717 rdfs:label "Melanotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010904 meshv:broaderDescriptor mesh:D010902 .
+       mesh:D010904 rdfs:label "Pituitary Gland, Posterior"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010903 meshv:broaderDescriptor mesh:D010902 .
+       mesh:D010903 rdfs:label "Pituitary Gland, Anterior"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052680 meshv:broaderDescriptor mesh:D010903 .
+       mesh:D052680 rdfs:label "Corticotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052681 meshv:broaderDescriptor mesh:D010903 .
+       mesh:D052681 rdfs:label "Gonadotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052682 meshv:broaderDescriptor mesh:D010903 .
+       mesh:D052682 rdfs:label "Lactotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052683 meshv:broaderDescriptor mesh:D010903 .
+       mesh:D052683 rdfs:label "Somatotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052684 meshv:broaderDescriptor mesh:D010903 .
+       mesh:D052684 rdfs:label "Thyrotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014371 meshv:broaderDescriptor mesh:D007033 .
+       mesh:D014371 rdfs:label "Tuber Cinereum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014697 meshv:broaderDescriptor mesh:D007033 .
+       mesh:D014697 rdfs:label "Ventromedial Hypothalamic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007026 meshv:broaderDescriptor mesh:D007031 .
+       mesh:D007026 rdfs:label "Hypothalamic Area, Lateral"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007032 meshv:broaderDescriptor mesh:D007031 .
+       mesh:D007032 rdfs:label "Hypothalamus, Anterior"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007025 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D007025 rdfs:label "Anterior Hypothalamic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010286 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D010286 rdfs:label "Paraventricular Hypothalamic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D011301 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D011301 rdfs:label "Preoptic Area"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013493 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D013493 rdfs:label "Suprachiasmatic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D000074523 meshv:broaderDescriptor mesh:D013493 .
+       mesh:D000074523 rdfs:label "Suprachiasmatic Nucleus Neurons"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013495 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D013495 rdfs:label "Supraoptic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066278 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D066278 rdfs:label "Organum Vasculosum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007034 meshv:broaderDescriptor mesh:D007031 .
+       mesh:D007034 rdfs:label "Hypothalamus, Posterior"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D008326 meshv:broaderDescriptor mesh:D007034 .
+       mesh:D008326 rdfs:label "Mammillary Bodies"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D006624 meshv:broaderDescriptor mesh:D008032 .
+       mesh:D006624 rdfs:label "Hippocampus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020712 meshv:broaderDescriptor mesh:D006624 .
+       mesh:D020712 rdfs:label "Fornix, Brain"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D018891 meshv:broaderDescriptor mesh:D006624 .
+       mesh:D018891 rdfs:label "Dentate Gyrus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D019599 meshv:broaderDescriptor mesh:D018891 .
+       mesh:D019599 rdfs:label "Mossy Fibers, Hippocampal"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D056547 meshv:broaderDescriptor mesh:D006624 .
+       mesh:D056547 rdfs:label "CA1 Region, Hippocampal"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D056651 meshv:broaderDescriptor mesh:D006624 .
+       mesh:D056651 rdfs:label "CA2 Region, Hippocampal"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D056654 meshv:broaderDescriptor mesh:D006624 .
+       mesh:D056654 rdfs:label "CA3 Region, Hippocampal"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065726 meshv:broaderDescriptor mesh:D008032 .
+       mesh:D065726 rdfs:label "Limbic Lobe"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D006179 meshv:broaderDescriptor mesh:D065726 .
+       mesh:D006179 rdfs:label "Gyrus Cinguli"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020534 meshv:broaderDescriptor mesh:D065726 .
+       mesh:D020534 rdfs:label "Parahippocampal Gyrus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D018728 meshv:broaderDescriptor mesh:D020534 .
+       mesh:D018728 rdfs:label "Entorhinal Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066277 meshv:broaderDescriptor mesh:D020534 .
+       mesh:D066277 rdfs:label "Periamygdaloid Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D019580 meshv:broaderDescriptor mesh:D008032 .
+       mesh:D019580 rdfs:label "Perforant Pathway"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D009833 meshv:broaderDescriptor mesh:D008032 .
+       mesh:D009833 rdfs:label "Olfactory Pathways"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D019261 meshv:broaderDescriptor mesh:D008032 .
+       mesh:D019261 rdfs:label "Epithalamus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010870 meshv:broaderDescriptor mesh:D019261 .
+       mesh:D010870 rdfs:label "Pineal Gland"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D019262 meshv:broaderDescriptor mesh:D019261 .
+       mesh:D019262 rdfs:label "Habenula"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020665 meshv:broaderDescriptor mesh:D008032 .
+       mesh:D020665 rdfs:label "Septum of Brain"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D012686 meshv:broaderDescriptor mesh:D020665 .
+       mesh:D012686 rdfs:label "Septal Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D012688 meshv:broaderDescriptor mesh:D020665 .
+       mesh:D012688 rdfs:label "Septum Pellucidum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013377 meshv:broaderDescriptor mesh:D008032 .
+       mesh:D013377 rdfs:label "Substantia Innominata"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020532 meshv:broaderDescriptor mesh:D013377 .
+       mesh:D020532 rdfs:label "Basal Nucleus of Meynert"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020534 meshv:broaderDescriptor mesh:D008032 .
+       mesh:D020534 rdfs:label "Parahippocampal Gyrus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D018728 meshv:broaderDescriptor mesh:D020534 .
+       mesh:D018728 rdfs:label "Entorhinal Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066277 meshv:broaderDescriptor mesh:D020534 .
+       mesh:D066277 rdfs:label "Periamygdaloid Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D001933 meshv:broaderDescriptor mesh:D001921 .
+       mesh:D001933 rdfs:label "Brain Stem"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D008636 meshv:broaderDescriptor mesh:D001933 .
+       mesh:D008636 rdfs:label "Mesencephalon"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D003336 meshv:broaderDescriptor mesh:D008636 .
+       mesh:D003336 rdfs:label "Tectum Mesencephali"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007245 meshv:broaderDescriptor mesh:D003336 .
+       mesh:D007245 rdfs:label "Inferior Colliculi"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013351 meshv:broaderDescriptor mesh:D003336 .
+       mesh:D013351 rdfs:label "Subcommissural Organ"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013477 meshv:broaderDescriptor mesh:D003336 .
+       mesh:D013477 rdfs:label "Superior Colliculi"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066243 meshv:broaderDescriptor mesh:D003336 .
+       mesh:D066243 rdfs:label "Posterior Cerebellar Commissure"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066250 meshv:broaderDescriptor mesh:D003336 .
+       mesh:D066250 rdfs:label "Pretectal Region"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D008125 meshv:broaderDescriptor mesh:D008636 .
+       mesh:D008125 rdfs:label "Locus Coeruleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065850 meshv:broaderDescriptor mesh:D008636 .
+       mesh:D065850 rdfs:label "Cerebral Peduncle"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013681 meshv:broaderDescriptor mesh:D065850 .
+       mesh:D013681 rdfs:label "Tegmentum Mesencephali"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D002535 meshv:broaderDescriptor mesh:D013681 .
+       mesh:D002535 rdfs:label "Cerebral Aqueduct"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010487 meshv:broaderDescriptor mesh:D013681 .
+       mesh:D010487 rdfs:label "Periaqueductal Gray"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066265 meshv:broaderDescriptor mesh:D013681 .
+       mesh:D066265 rdfs:label "Midbrain Reticular Formation"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D045042 meshv:broaderDescriptor mesh:D066265 .
+       mesh:D045042 rdfs:label "Pedunculopontine Tegmental Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D011903 meshv:broaderDescriptor mesh:D013681 .
+       mesh:D011903 rdfs:label "Raphe Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065846 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065846 rdfs:label "Nucleus Raphe Magnus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065847 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065847 rdfs:label "Dorsal Raphe Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065848 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065848 rdfs:label "Nucleus Raphe Pallidus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065849 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065849 rdfs:label "Nucleus Raphe Obscurus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066267 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D066267 rdfs:label "Midbrain Raphe Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066268 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D066268 rdfs:label "Interpeduncular Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D012012 meshv:broaderDescriptor mesh:D013681 .
+       mesh:D012012 rdfs:label "Red Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D017557 meshv:broaderDescriptor mesh:D013681 .
+       mesh:D017557 rdfs:label "Ventral Tegmental Area"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065838 meshv:broaderDescriptor mesh:D013681 .
+       mesh:D065838 rdfs:label "Oculomotor Nuclear Complex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065839 meshv:broaderDescriptor mesh:D065838 .
+       mesh:D065839 rdfs:label "Edinger-Westphal Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013378 meshv:broaderDescriptor mesh:D065850 .
+       mesh:D013378 rdfs:label "Substantia Nigra"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065841 meshv:broaderDescriptor mesh:D013378 .
+       mesh:D065841 rdfs:label "Pars Reticulata"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065842 meshv:broaderDescriptor mesh:D013378 .
+       mesh:D065842 rdfs:label "Pars Compacta"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065843 meshv:broaderDescriptor mesh:D065850 .
+       mesh:D065843 rdfs:label "Cerebral Crus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D012249 meshv:broaderDescriptor mesh:D001933 .
+       mesh:D012249 rdfs:label "Rhombencephalon"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020540 meshv:broaderDescriptor mesh:D012249 .
+       mesh:D020540 rdfs:label "Metencephalon"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D002531 meshv:broaderDescriptor mesh:D020540 .
+       mesh:D002531 rdfs:label "Cerebellum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D002525 meshv:broaderDescriptor mesh:D002531 .
+       mesh:D002525 rdfs:label "Cerebellar Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D011689 meshv:broaderDescriptor mesh:D002525 .
+       mesh:D011689 rdfs:label "Purkinje Cells"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065814 meshv:broaderDescriptor mesh:D002525 .
+       mesh:D065814 rdfs:label "Cerebellar Vermis"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D000080906 meshv:broaderDescriptor mesh:D002525 .
+       mesh:D000080906 rdfs:label "Cerebellar Golgi Cells"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D002529 meshv:broaderDescriptor mesh:D002531 .
+       mesh:D002529 rdfs:label "Cerebellar Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D002530 meshv:broaderDescriptor mesh:D002531 .
+       mesh:D002530 rdfs:label "Cerebellopontine Angle"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D011149 meshv:broaderDescriptor mesh:D020540 .
+       mesh:D011149 rdfs:label "Pons"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014726 meshv:broaderDescriptor mesh:D011149 .
+       mesh:D014726 rdfs:label "Vestibular Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D003689 meshv:broaderDescriptor mesh:D014726 .
+       mesh:D003689 rdfs:label "Vestibular Nucleus, Lateral"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065821 meshv:broaderDescriptor mesh:D011149 .
+       mesh:D065821 rdfs:label "Pontine Tegmentum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065827 meshv:broaderDescriptor mesh:D065821 .
+       mesh:D065827 rdfs:label "Abducens Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065828 meshv:broaderDescriptor mesh:D065821 .
+       mesh:D065828 rdfs:label "Facial Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D008125 meshv:broaderDescriptor mesh:D065821 .
+       mesh:D008125 rdfs:label "Locus Coeruleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D011903 meshv:broaderDescriptor mesh:D065821 .
+       mesh:D011903 rdfs:label "Raphe Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065846 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065846 rdfs:label "Nucleus Raphe Magnus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065847 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065847 rdfs:label "Dorsal Raphe Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065848 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065848 rdfs:label "Nucleus Raphe Pallidus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065849 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065849 rdfs:label "Nucleus Raphe Obscurus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066267 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D066267 rdfs:label "Midbrain Raphe Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066268 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D066268 rdfs:label "Interpeduncular Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014279 meshv:broaderDescriptor mesh:D065821 .
+       mesh:D014279 rdfs:label "Trigeminal Nucleus, Spinal"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014275 meshv:broaderDescriptor mesh:D014279 .
+       mesh:D014275 rdfs:label "Trigeminal Caudal Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065823 meshv:broaderDescriptor mesh:D065821 .
+       mesh:D065823 rdfs:label "Parabrachial Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065832 meshv:broaderDescriptor mesh:D065821 .
+       mesh:D065832 rdfs:label "Superior Olivary Complex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065833 meshv:broaderDescriptor mesh:D065821 .
+       mesh:D065833 rdfs:label "Trapezoid Body"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066266 meshv:broaderDescriptor mesh:D065821 .
+       mesh:D066266 rdfs:label "Trigeminal Motor Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D017626 meshv:broaderDescriptor mesh:D011149 .
+       mesh:D017626 rdfs:label "Cochlear Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065835 meshv:broaderDescriptor mesh:D011149 .
+       mesh:D065835 rdfs:label "Barrington's Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065836 meshv:broaderDescriptor mesh:D011149 .
+       mesh:D065836 rdfs:label "Kolliker-Fuse Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065837 meshv:broaderDescriptor mesh:D011149 .
+       mesh:D065837 rdfs:label "Middle Cerebellar Peduncle"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D054024 meshv:broaderDescriptor mesh:D012249 .
+       mesh:D054024 rdfs:label "Myelencephalon"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D008526 meshv:broaderDescriptor mesh:D054024 .
+       mesh:D008526 rdfs:label "Medulla Oblongata"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D031608 meshv:broaderDescriptor mesh:D008526 .
+       mesh:D031608 rdfs:label "Area Postrema"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D009847 meshv:broaderDescriptor mesh:D008526 .
+       mesh:D009847 rdfs:label "Olivary Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D011903 meshv:broaderDescriptor mesh:D008526 .
+       mesh:D011903 rdfs:label "Raphe Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065846 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065846 rdfs:label "Nucleus Raphe Magnus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065847 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065847 rdfs:label "Dorsal Raphe Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065848 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065848 rdfs:label "Nucleus Raphe Pallidus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065849 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D065849 rdfs:label "Nucleus Raphe Obscurus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066267 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D066267 rdfs:label "Midbrain Raphe Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066268 meshv:broaderDescriptor mesh:D011903 .
+       mesh:D066268 rdfs:label "Interpeduncular Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014279 meshv:broaderDescriptor mesh:D008526 .
+       mesh:D014279 rdfs:label "Trigeminal Nucleus, Spinal"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014275 meshv:broaderDescriptor mesh:D014279 .
+       mesh:D014275 rdfs:label "Trigeminal Caudal Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D017552 meshv:broaderDescriptor mesh:D008526 .
+       mesh:D017552 rdfs:label "Solitary Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065844 meshv:broaderDescriptor mesh:D012249 .
+       mesh:D065844 rdfs:label "Tectospinal Fibers"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D012154 meshv:broaderDescriptor mesh:D001933 .
+       mesh:D012154 rdfs:label "Reticular Formation"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066265 meshv:broaderDescriptor mesh:D012154 .
+       mesh:D066265 rdfs:label "Midbrain Reticular Formation"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D045042 meshv:broaderDescriptor mesh:D066265 .
+       mesh:D045042 rdfs:label "Pedunculopontine Tegmental Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D012125 meshv:broaderDescriptor mesh:D012154 .
+       mesh:D012125 rdfs:label "Respiratory Center"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014278 meshv:broaderDescriptor mesh:D001933 .
+       mesh:D014278 rdfs:label "Trigeminal Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014279 meshv:broaderDescriptor mesh:D014278 .
+       mesh:D014279 rdfs:label "Trigeminal Nucleus, Spinal"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014275 meshv:broaderDescriptor mesh:D014279 .
+       mesh:D014275 rdfs:label "Trigeminal Caudal Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066266 meshv:broaderDescriptor mesh:D014278 .
+       mesh:D066266 rdfs:label "Trigeminal Motor Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D002552 meshv:broaderDescriptor mesh:D001921 .
+       mesh:D002552 rdfs:label "Cerebral Ventricles"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D002535 meshv:broaderDescriptor mesh:D002552 .
+       mesh:D002535 rdfs:label "Cerebral Aqueduct"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D004805 meshv:broaderDescriptor mesh:D002552 .
+       mesh:D004805 rdfs:label "Ependyma"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D002831 meshv:broaderDescriptor mesh:D002552 .
+       mesh:D002831 rdfs:label "Choroid Plexus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020542 meshv:broaderDescriptor mesh:D002552 .
+       mesh:D020542 rdfs:label "Third Ventricle"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020546 meshv:broaderDescriptor mesh:D002552 .
+       mesh:D020546 rdfs:label "Fourth Ventricle"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020547 meshv:broaderDescriptor mesh:D002552 .
+       mesh:D020547 rdfs:label "Lateral Ventricles"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D012688 meshv:broaderDescriptor mesh:D002552 .
+       mesh:D012688 rdfs:label "Septum Pellucidum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D016548 meshv:broaderDescriptor mesh:D001921 .
+       mesh:D016548 rdfs:label "Prosencephalon"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D004027 meshv:broaderDescriptor mesh:D016548 .
+       mesh:D004027 rdfs:label "Diencephalon"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013788 meshv:broaderDescriptor mesh:D004027 .
+       mesh:D013788 rdfs:label "Thalamus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013787 meshv:broaderDescriptor mesh:D013788 .
+       mesh:D013787 rdfs:label "Thalamic Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D005829 meshv:broaderDescriptor mesh:D013787 .
+       mesh:D005829 rdfs:label "Geniculate Bodies"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020643 meshv:broaderDescriptor mesh:D013787 .
+       mesh:D020643 rdfs:label "Anterior Thalamic Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020644 meshv:broaderDescriptor mesh:D013787 .
+       mesh:D020644 rdfs:label "Midline Thalamic Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020645 meshv:broaderDescriptor mesh:D013787 .
+       mesh:D020645 rdfs:label "Mediodorsal Thalamic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020646 meshv:broaderDescriptor mesh:D013787 .
+       mesh:D020646 rdfs:label "Intralaminar Thalamic Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020647 meshv:broaderDescriptor mesh:D013787 .
+       mesh:D020647 rdfs:label "Lateral Thalamic Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020649 meshv:broaderDescriptor mesh:D020647 .
+       mesh:D020649 rdfs:label "Pulvinar"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020651 meshv:broaderDescriptor mesh:D013787 .
+       mesh:D020651 rdfs:label "Ventral Thalamic Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020656 meshv:broaderDescriptor mesh:D013787 .
+       mesh:D020656 rdfs:label "Posterior Thalamic Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065866 meshv:broaderDescriptor mesh:D004027 .
+       mesh:D065866 rdfs:label "Optic Tract"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007031 meshv:broaderDescriptor mesh:D004027 .
+       mesh:D007031 rdfs:label "Hypothalamus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007033 meshv:broaderDescriptor mesh:D007031 .
+       mesh:D007033 rdfs:label "Hypothalamus, Middle"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D004302 meshv:broaderDescriptor mesh:D007033 .
+       mesh:D004302 rdfs:label "Dorsomedial Hypothalamic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D001111 meshv:broaderDescriptor mesh:D007033 .
+       mesh:D001111 rdfs:label "Arcuate Nucleus of Hypothalamus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014371 meshv:broaderDescriptor mesh:D007033 .
+       mesh:D014371 rdfs:label "Tuber Cinereum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014697 meshv:broaderDescriptor mesh:D007033 .
+       mesh:D014697 rdfs:label "Ventromedial Hypothalamic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007030 meshv:broaderDescriptor mesh:D007033 .
+       mesh:D007030 rdfs:label "Hypothalamo-Hypophyseal System"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D008473 meshv:broaderDescriptor mesh:D007030 .
+       mesh:D008473 rdfs:label "Median Eminence"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010902 meshv:broaderDescriptor mesh:D007030 .
+       mesh:D010902 rdfs:label "Pituitary Gland"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010903 meshv:broaderDescriptor mesh:D010902 .
+       mesh:D010903 rdfs:label "Pituitary Gland, Anterior"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052680 meshv:broaderDescriptor mesh:D010903 .
+       mesh:D052680 rdfs:label "Corticotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052681 meshv:broaderDescriptor mesh:D010903 .
+       mesh:D052681 rdfs:label "Gonadotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052682 meshv:broaderDescriptor mesh:D010903 .
+       mesh:D052682 rdfs:label "Lactotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052683 meshv:broaderDescriptor mesh:D010903 .
+       mesh:D052683 rdfs:label "Somatotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052684 meshv:broaderDescriptor mesh:D010903 .
+       mesh:D052684 rdfs:label "Thyrotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010904 meshv:broaderDescriptor mesh:D010902 .
+       mesh:D010904 rdfs:label "Pituitary Gland, Posterior"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052716 meshv:broaderDescriptor mesh:D010902 .
+       mesh:D052716 rdfs:label "Pituitary Gland, Intermediate"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D052717 meshv:broaderDescriptor mesh:D052716 .
+       mesh:D052717 rdfs:label "Melanotrophs"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007026 meshv:broaderDescriptor mesh:D007031 .
+       mesh:D007026 rdfs:label "Hypothalamic Area, Lateral"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007032 meshv:broaderDescriptor mesh:D007031 .
+       mesh:D007032 rdfs:label "Hypothalamus, Anterior"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013493 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D013493 rdfs:label "Suprachiasmatic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D000074523 meshv:broaderDescriptor mesh:D013493 .
+       mesh:D000074523 rdfs:label "Suprachiasmatic Nucleus Neurons"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013495 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D013495 rdfs:label "Supraoptic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066278 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D066278 rdfs:label "Organum Vasculosum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007025 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D007025 rdfs:label "Anterior Hypothalamic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010286 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D010286 rdfs:label "Paraventricular Hypothalamic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D011301 meshv:broaderDescriptor mesh:D007032 .
+       mesh:D011301 rdfs:label "Preoptic Area"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D007034 meshv:broaderDescriptor mesh:D007031 .
+       mesh:D007034 rdfs:label "Hypothalamus, Posterior"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D008326 meshv:broaderDescriptor mesh:D007034 .
+       mesh:D008326 rdfs:label "Mammillary Bodies"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D009897 meshv:broaderDescriptor mesh:D004027 .
+       mesh:D009897 rdfs:label "Optic Chiasm"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D019261 meshv:broaderDescriptor mesh:D004027 .
+       mesh:D019261 rdfs:label "Epithalamus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010870 meshv:broaderDescriptor mesh:D019261 .
+       mesh:D010870 rdfs:label "Pineal Gland"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D019262 meshv:broaderDescriptor mesh:D019261 .
+       mesh:D019262 rdfs:label "Habenula"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020530 meshv:broaderDescriptor mesh:D004027 .
+       mesh:D020530 rdfs:label "Subthalamus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020392 meshv:broaderDescriptor mesh:D020530 .
+       mesh:D020392 rdfs:label "Entopeduncular Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020531 meshv:broaderDescriptor mesh:D020530 .
+       mesh:D020531 rdfs:label "Subthalamic Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065820 meshv:broaderDescriptor mesh:D020530 .
+       mesh:D065820 rdfs:label "Zona Incerta"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013687 meshv:broaderDescriptor mesh:D016548 .
+       mesh:D013687 rdfs:label "Telencephalon"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D054022 meshv:broaderDescriptor mesh:D013687 .
+       mesh:D054022 rdfs:label "Cerebrum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D001479 meshv:broaderDescriptor mesh:D054022 .
+       mesh:D001479 rdfs:label "Basal Ganglia"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D000679 meshv:broaderDescriptor mesh:D001479 .
+       mesh:D000679 rdfs:label "Amygdala"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066272 meshv:broaderDescriptor mesh:D000679 .
+       mesh:D066272 rdfs:label "Basolateral Nuclear Complex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066274 meshv:broaderDescriptor mesh:D000679 .
+       mesh:D066274 rdfs:label "Central Amygdaloid Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066276 meshv:broaderDescriptor mesh:D000679 .
+       mesh:D066276 rdfs:label "Corticomedial Nuclear Complex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066277 meshv:broaderDescriptor mesh:D066276 .
+       mesh:D066277 rdfs:label "Periamygdaloid Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D003342 meshv:broaderDescriptor mesh:D001479 .
+       mesh:D003342 rdfs:label "Corpus Striatum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D017072 meshv:broaderDescriptor mesh:D003342 .
+       mesh:D017072 rdfs:label "Neostriatum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D002421 meshv:broaderDescriptor mesh:D017072 .
+       mesh:D002421 rdfs:label "Caudate Nucleus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D053400 meshv:broaderDescriptor mesh:D017072 .
+       mesh:D053400 rdfs:label "High Vocal Center"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D011699 meshv:broaderDescriptor mesh:D017072 .
+       mesh:D011699 rdfs:label "Putamen"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066328 meshv:broaderDescriptor mesh:D003342 .
+       mesh:D066328 rdfs:label "Ventral Striatum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D009714 meshv:broaderDescriptor mesh:D066328 .
+       mesh:D009714 rdfs:label "Nucleus Accumbens"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066208 meshv:broaderDescriptor mesh:D066328 .
+       mesh:D066208 rdfs:label "Olfactory Tubercle"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020670 meshv:broaderDescriptor mesh:D066208 .
+       mesh:D020670 rdfs:label "Islands of Calleja"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D005917 meshv:broaderDescriptor mesh:D003342 .
+       mesh:D005917 rdfs:label "Globus Pallidus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013377 meshv:broaderDescriptor mesh:D001479 .
+       mesh:D013377 rdfs:label "Substantia Innominata"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020532 meshv:broaderDescriptor mesh:D013377 .
+       mesh:D020532 rdfs:label "Basal Nucleus of Meynert"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D000079482 meshv:broaderDescriptor mesh:D001479 .
+       mesh:D000079482 rdfs:label "Claustrum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D002540 meshv:broaderDescriptor mesh:D054022 .
+       mesh:D002540 rdfs:label "Cerebral Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066191 meshv:broaderDescriptor mesh:D002540 .
+       mesh:D066191 rdfs:label "Sensorimotor Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D001303 meshv:broaderDescriptor mesh:D066191 .
+       mesh:D001303 rdfs:label "Auditory Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D009044 meshv:broaderDescriptor mesh:D066191 .
+       mesh:D009044 rdfs:label "Motor Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013003 meshv:broaderDescriptor mesh:D066191 .
+       mesh:D013003 rdfs:label "Somatosensory Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014793 meshv:broaderDescriptor mesh:D066191 .
+       mesh:D014793 rdfs:label "Visual Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066194 meshv:broaderDescriptor mesh:D066191 .
+       mesh:D066194 rdfs:label "Olfactory Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D018728 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D018728 rdfs:label "Entorhinal Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066208 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D066208 rdfs:label "Olfactory Tubercle"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020670 meshv:broaderDescriptor mesh:D066208 .
+       mesh:D020670 rdfs:label "Islands of Calleja"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066187 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D066187 rdfs:label "Basal Forebrain"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066278 meshv:broaderDescriptor mesh:D066187 .
+       mesh:D066278 rdfs:label "Organum Vasculosum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066195 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D066195 rdfs:label "Piriform Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D006624 meshv:broaderDescriptor mesh:D002540 .
+       mesh:D006624 rdfs:label "Hippocampus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020712 meshv:broaderDescriptor mesh:D006624 .
+       mesh:D020712 rdfs:label "Fornix, Brain"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D018891 meshv:broaderDescriptor mesh:D006624 .
+       mesh:D018891 rdfs:label "Dentate Gyrus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D019599 meshv:broaderDescriptor mesh:D018891 .
+       mesh:D019599 rdfs:label "Mossy Fibers, Hippocampal"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D056547 meshv:broaderDescriptor mesh:D006624 .
+       mesh:D056547 rdfs:label "CA1 Region, Hippocampal"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D056651 meshv:broaderDescriptor mesh:D006624 .
+       mesh:D056651 rdfs:label "CA2 Region, Hippocampal"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D056654 meshv:broaderDescriptor mesh:D006624 .
+       mesh:D056654 rdfs:label "CA3 Region, Hippocampal"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D009778 meshv:broaderDescriptor mesh:D002540 .
+       mesh:D009778 rdfs:label "Occipital Lobe"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D014793 meshv:broaderDescriptor mesh:D009778 .
+       mesh:D014793 rdfs:label "Visual Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D005625 meshv:broaderDescriptor mesh:D002540 .
+       mesh:D005625 rdfs:label "Frontal Lobe"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D017397 meshv:broaderDescriptor mesh:D005625 .
+       mesh:D017397 rdfs:label "Prefrontal Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065711 meshv:broaderDescriptor mesh:D017397 .
+       mesh:D065711 rdfs:label "Broca Area"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D009044 meshv:broaderDescriptor mesh:D005625 .
+       mesh:D009044 rdfs:label "Motor Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065726 meshv:broaderDescriptor mesh:D002540 .
+       mesh:D065726 rdfs:label "Limbic Lobe"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D006179 meshv:broaderDescriptor mesh:D065726 .
+       mesh:D006179 rdfs:label "Gyrus Cinguli"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020534 meshv:broaderDescriptor mesh:D065726 .
+       mesh:D020534 rdfs:label "Parahippocampal Gyrus"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D018728 meshv:broaderDescriptor mesh:D020534 .
+       mesh:D018728 rdfs:label "Entorhinal Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066277 meshv:broaderDescriptor mesh:D020534 .
+       mesh:D066277 rdfs:label "Periamygdaloid Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D010296 meshv:broaderDescriptor mesh:D002540 .
+       mesh:D010296 rdfs:label "Parietal Lobe"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013003 meshv:broaderDescriptor mesh:D010296 .
+       mesh:D013003 rdfs:label "Somatosensory Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065813 meshv:broaderDescriptor mesh:D010296 .
+       mesh:D065813 rdfs:label "Wernicke Area"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D013702 meshv:broaderDescriptor mesh:D002540 .
+       mesh:D013702 rdfs:label "Temporal Lobe"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D001303 meshv:broaderDescriptor mesh:D013702 .
+       mesh:D001303 rdfs:label "Auditory Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D000071039 meshv:broaderDescriptor mesh:D013702 .
+       mesh:D000071039 rdfs:label "Perirhinal Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D065813 meshv:broaderDescriptor mesh:D013702 .
+       mesh:D065813 rdfs:label "Wernicke Area"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D019579 meshv:broaderDescriptor mesh:D002540 .
+       mesh:D019579 rdfs:label "Neocortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066194 meshv:broaderDescriptor mesh:D002540 .
+       mesh:D066194 rdfs:label "Olfactory Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D018728 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D018728 rdfs:label "Entorhinal Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066208 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D066208 rdfs:label "Olfactory Tubercle"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020670 meshv:broaderDescriptor mesh:D066208 .
+       mesh:D020670 rdfs:label "Islands of Calleja"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066187 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D066187 rdfs:label "Basal Forebrain"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066278 meshv:broaderDescriptor mesh:D066187 .
+       mesh:D066278 rdfs:label "Organum Vasculosum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066195 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D066195 rdfs:label "Piriform Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066194 meshv:broaderDescriptor mesh:D054022 .
+       mesh:D066194 rdfs:label "Olfactory Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D018728 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D018728 rdfs:label "Entorhinal Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066208 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D066208 rdfs:label "Olfactory Tubercle"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020670 meshv:broaderDescriptor mesh:D066208 .
+       mesh:D020670 rdfs:label "Islands of Calleja"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066187 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D066187 rdfs:label "Basal Forebrain"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066278 meshv:broaderDescriptor mesh:D066187 .
+       mesh:D066278 rdfs:label "Organum Vasculosum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066195 meshv:broaderDescriptor mesh:D066194 .
+       mesh:D066195 rdfs:label "Piriform Cortex"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066245 meshv:broaderDescriptor mesh:D013687 .
+       mesh:D066245 rdfs:label "Telencephalic Commissures"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D003337 meshv:broaderDescriptor mesh:D066245 .
+       mesh:D003337 rdfs:label "Corpus Callosum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066240 meshv:broaderDescriptor mesh:D066245 .
+       mesh:D066240 rdfs:label "Anterior Commissure, Brain"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D009830 meshv:broaderDescriptor mesh:D013687 .
+       mesh:D009830 rdfs:label "Olfactory Bulb"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020667 meshv:broaderDescriptor mesh:D013687 .
+       mesh:D020667 rdfs:label "Diagonal Band of Broca"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020665 meshv:broaderDescriptor mesh:D013687 .
+       mesh:D020665 rdfs:label "Septum of Brain"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D012686 meshv:broaderDescriptor mesh:D020665 .
+       mesh:D012686 rdfs:label "Septal Nuclei"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D012688 meshv:broaderDescriptor mesh:D020665 .
+       mesh:D012688 rdfs:label "Septum Pellucidum"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D020772 meshv:broaderDescriptor mesh:D013687 .
+       mesh:D020772 rdfs:label "Internal Capsule"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066271 meshv:broaderDescriptor mesh:D013687 .
+       mesh:D066271 rdfs:label "External Capsule"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066128 meshv:broaderDescriptor mesh:D001921 .
+       mesh:D066128 rdfs:label "Gray Matter"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D066127 meshv:broaderDescriptor mesh:D001921 .
+       mesh:D066127 rdfs:label "White Matter"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D001812 meshv:broaderDescriptor mesh:D001921 .
+       mesh:D001812 rdfs:label "Blood-Brain Barrier"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
+
+    INSERT {
+       mesh:D000077502 meshv:broaderDescriptor mesh:D001921 .
+       mesh:D000077502 rdfs:label "Glymphatic System"^^xsd:string .
+    }
+    WHERE{
+      
+    };
+    
