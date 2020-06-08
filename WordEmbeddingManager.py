@@ -15,15 +15,34 @@ class WordEmbeddingManager:
         self.model_dir = 'my_models'
         self.model_path = self.model_dir + '/model_skipgram'
         self.ontology_terms_in_model = []
+        self.mesh_terms = self.get_added_ontology_terms()
         ontology_terms = set(OntologyEmbeddingMapper.get_terms().keys())
         model = self.load_model()
         for term in ontology_terms:
             if term in model.wv.vocab:
                 self.ontology_terms_in_model.append(term)
 
+    ## Returns formatted list of "get_similar_words"
+    def get_similars(self, query, topn=10):
+        formatted_similars = []
+        similars = self.get_similar_words(query, topn)
+
+        formatted_similars = []
+        for sim in similars["similar"]:
+            if len(formatted_similars) == 5:
+                break
+
+            mesh_id = self.get_term_mesh_id(sim[0])
+            if mesh_id == "":
+                continue
+            formatted_similars.append({"name": sim[0], "score": sim[1], "id": mesh_id})
+
+        return formatted_similars
+
+    ### This method is frequently used by others.. Refactor it.
     def get_similar_words(self, query, topn=5):
         model = self.load_model()
-        similars = ""
+        similars = []
         try:
             if query in model.wv:
                 similars = model.most_similar_cosmul(query, topn=topn)
@@ -50,6 +69,22 @@ class WordEmbeddingManager:
         except:
             sim = 0
         return {'similar': similars, 'similarity': sim}
+
+
+    def get_term_mesh_id(self, name):
+        id = ""
+        try:
+            term = self.mesh_terms[name]
+            uri = term["uri"]
+            id = uri.split("mesh/")[1]
+        except:
+            id = ""
+        return id
+
+    def get_added_ontology_terms(self):
+        s = open('my_terms_with_vectors.txt', 'r').read()
+        terms = eval(s)
+        return terms
 
     def get_similar_words_by_user_input(self):
         user_input = ""

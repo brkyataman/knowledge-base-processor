@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script type=text/javascript>
+                $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+                console.log('$SCRIPT_ROOT: ' + $SCRIPT_ROOT);
+                query_list = []
+
+                function quick_add_to_query_list(){
+                    var id = document.getElementById("quick_add_input").value
+                    if(id == ""){
+                        return
+                    }
+                    add_to_query_list(id, id)
+                    document.getElementById("quick_add_input").value = ""
+                }
+                function add_to_query_list(id, name){
+                    var p = $('#place_for_query_list')
+                    p.append("<li>"+ name + ", " + id +"</li>");
+                    query_list.push(id)
+                }
+
+                function find_similars(){
+                    var query_term = document.getElementById("raw_query_term").value
+
+                    $.ajax({
+                        type: "GET",
+                        url: $SCRIPT_ROOT + '/similars/' + query_term,
+                        contentType: "application/json",
+                        dataType: 'json',
+                        success: function (data) {
+                            console.log(data)
+                            var p = $("#place_for_similars");
+                            p.html("");
+
+                            if(data.length == 0){
+                                p.append("<div>Couldn't find any similar ontology term for <b>\""+ query_term +"\"</b></div>")
+                            }
+                            else{
+                                p.append("<div>Similar ontology terms for <b>\""+ query_term +"\"</b>:</div>")
+                                data.forEach(function(s){
+                                    d = s["id"] + "&emsp;#&emsp;<b>" + s["name"] + "</b>&emsp;#&emsp;"  + " (sim_score: " + s["score"].toFixed(2) + ")&emsp;";
+                                    p.append("<div>" + "<button type=\"button\" onclick=\"add_to_query_list(\'"+ s["id"] + "\' , \'" + s["name"] +"\')\">Add</button>&nbsp;" + d +"</div>")
+                                })
+                            }
+                        },error: function(request, status, error){
+                            alert("Error: look to console..");
+                            console.log(request.responseText);
+                            console.log(error.message);
+                        }
+                    });
+                };
+
+
+                function query(){
+                    $.ajax({
+                        type: "POST",
+                        url: $SCRIPT_ROOT + '/query',
+                        contentType: "application/json",
+                        dataType: 'json',
+                        data: JSON.stringify({
+                            "list" : query_list,
+                        }),
+                        success: function (data) {
+                            console.log("Updated phrase")
+                            var p = $("#place_for_articles");
+                            p.html("");
+
+                            if(data.articles.length == 0) {
+                                p.append("Couldn't find any related article..")
+                                return
+                            }
+
+                            data.articles.forEach(function(a){
+                                p.append("<li>"+ a +"</li>");
+                            })
+
+                            var pd = $("#place_for_details");
+                            pd.html("");
+                            var details = data.details
+                            for (var key in details){
+                                pd.append("" + key + "<br>");
+                                details[key].forEach(function(d){
+                                    pd.append("&emsp;phrase label:<b>" + d.phrase_label + "</b> to ontology term: " + d.ontology_term + " in article "+ d.article + "<br>")
+                                })
+                              console.log( key, details[key] );
+                            }
+
+
+
+                        },error: function(request, status, error){
+                            alert("Error: look to console..");
+                            console.log(request.responseText);
+                            console.log(error.message);
+                        }
+                    });
+                };
+        </script>
+
+    <div>
+        <input id="raw_query_term" type="text" placeholder="Find similar terms.."/>
+        <button type="button" onclick="find_similars()">Find</button>
+
+        <div id="place_for_similars"></div>
+
+        <div>
+            <h2>Query List</h2>
+            <input id="quick_add_input" type="text" placeholder="Quickly add an Ontology Term with ID.."/>
+            <button type="button" onclick="quick_add_to_query_list()">Find</button>
+
+            <ul id="place_for_query_list">
+            </ul>
+            <button type="button" onclick="query()">Find</button>
+
+            <h2>Articles</h2>
+            <ul id="place_for_articles">
+            </ul>
+
+            <h2>Details</h2>
+            <ul id="place_for_details">
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
