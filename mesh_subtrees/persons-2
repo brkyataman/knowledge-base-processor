@@ -1,0 +1,2769 @@
+{
+  "head": {
+    "vars": [ "dL" , "cL" , "tL" , "d" , "c" , "t" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Sexual and Gender Minorities" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Homosexuals" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Queers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000072339" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0010522" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000875955" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Sexual and Gender Minorities" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Gays" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Men Who Have Sex With Men" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000072339" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027677" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000908388" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Sexual and Gender Minorities" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Lesbians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Women Who Have Sex With Women" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000072339" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027680" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914091" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Shared Governance, Nursing" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Shared Governance, Nursing" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nursing Shared Governance" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000077772" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000641758" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000942306" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Shared Governance, Nursing" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Shared Governance, Nursing" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Shared Governance, Nursing" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000077772" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000641758" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000942306" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Siblings" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Brothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Brother" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035781" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0408149" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T474280" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Siblings" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sisters" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Sister" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035781" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0408150" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T474281" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Siblings" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Brothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Brothers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035781" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0408149" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T474280" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Siblings" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sisters" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Sisters" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035781" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0408150" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T474281" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Siblings" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Siblings" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Sibling" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035781" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0015029" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T028781" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Siblings" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Siblings" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Siblings" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035781" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0015029" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T028781" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Stepparent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Single Stepparents" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023741" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045455" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Stepparent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Stepparent, Single" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023741" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045455" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Stepparent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Stepparents, Single" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023741" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045455" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Stepparent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Single Stepparent" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023741" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045455" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Stepparent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Single Step Parent" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023741" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045456" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Stepparent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Single Step-Parents" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023741" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045456" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Stepparent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Step-Parent, Single" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023741" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045456" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Stepparent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Step-Parents, Single" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023741" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045456" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Stepparent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Single Step-Parent" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023741" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045456" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Parents, Single" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023739" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045450" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parents" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023739" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045450" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Parent, Single" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023739" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045450" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Single Parent" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D015406" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0023739" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T045451" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Person, Single" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D012847" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0019895" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T037887" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Persons, Single" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D012847" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0019895" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T037887" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Single Persons" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D012847" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0019895" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T037887" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Never Married" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Never Married" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D012847" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0019894" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T037885" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D012847" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0019895" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T037887" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Unmarried" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Unmarried" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D012847" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0019896" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T037888" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Single Person" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Maritally Unattached" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D012847" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0019895" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T037886" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Tobacco" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Smoker, Tobacco" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000625916" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914715" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Tobacco" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Tobacco Smoker" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000625916" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914715" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Tobacco" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Tobacco Smokers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000625916" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914715" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Non-Tobacco Products" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Non-Tobacco Products Smoker" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000625921" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914720" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Non-Tobacco Products" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Non-Tobacco Products Smokers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000625921" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914720" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Non-Tobacco Products" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Smoker, Non-Tobacco Products" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000625921" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914720" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Non-Tobacco Products" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Non Tobacco Products" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000625921" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914720" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vapers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vaper" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000626282" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914716" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Tobacco" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Tobacco" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000625916" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914715" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Non-Tobacco Products" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers, Non-Tobacco Products" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000625921" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914720" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vapers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vapers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000626282" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914716" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Smoker" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000625920" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914719" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Smokers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000074285" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000625920" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914719" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Social Workers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Social Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Social Worker" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000068217" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020064" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T038132" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Social Workers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Social Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Worker, Social" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000068217" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020064" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T038132" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Social Workers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Social Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Workers, Social" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000068217" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020064" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T038132" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Social Workers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Social Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Social Workers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000068217" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020064" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T038132" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Spousal Notification" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Notification, Spousal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027686" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054982" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Husbands" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Husband" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027687" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054983" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Domestic Partners" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Domestic Partner" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027689" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054986" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Domestic Partners" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Partner, Domestic" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027689" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054986" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Domestic Partners" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Partners, Domestic" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027689" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054986" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Spousal Notification" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Spousal Notification" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027686" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054982" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Husbands" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Husbands" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027687" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054983" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Wives" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Wives" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027688" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054985" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Domestic Partners" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Domestic Partners" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027689" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054986" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027685" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054981" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Married Person" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027685" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054979" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Person, Married" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027685" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054979" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Persons, Married" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027685" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054979" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Married Persons" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027685" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054979" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Spouse" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027685" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054980" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Spouses" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Wives" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Wife" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018454" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027688" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T054984" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Dropout, Student" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013332" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020630" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039139" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Dropouts, Student" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013332" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020630" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039139" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropout" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013332" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020630" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039139" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013332" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020630" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039139" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Dropout, School" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013332" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020630" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039138" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Dropouts, School" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013332" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020630" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039138" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "School Dropout" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013332" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020630" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039138" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Student Dropouts" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "School Dropouts" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013332" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020630" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039138" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Student" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013334" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020634" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039147" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "School Enrollment" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Enrollment, School" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013334" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020633" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039146" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "School Enrollment" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Enrollments, School" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013334" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020633" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039146" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "School Enrollment" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "School Enrollments" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013334" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020633" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039146" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Students" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013334" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020634" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039147" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "School Enrollment" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "School Enrollment" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013334" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020633" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039146" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Dental" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Dental" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Dental" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013335" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020635" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039151" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Dental" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Dental" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Dental Student" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013335" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020635" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039148" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Dental" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Dental" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Dental Students" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013335" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020635" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039149" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Dental" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Dental" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Student, Dental" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013335" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020635" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039150" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013336" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020636" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039153" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Health Occupations Student" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013336" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020636" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039152" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Occupations Student, Health" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013336" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020636" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039152" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Occupations Students, Health" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013336" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020636" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039152" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Student, Health Occupations" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013336" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020636" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039152" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Health Occupations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Health Occupations Students" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013336" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020636" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039152" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Medical" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Medical" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Medical" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013337" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020637" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039157" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Medical" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Medical" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Medical Student" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013337" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020637" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039154" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Medical" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Medical" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Medical Students" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013337" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020637" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039155" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Medical" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Medical" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Student, Medical" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013337" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020637" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039156" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013338" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020638" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039161" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nurse, Pupil" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013338" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020638" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039162" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Pupil Nurse" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013338" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020638" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039162" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nursing Student" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013338" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020638" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039158" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nursing Students" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013338" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020638" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039159" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Student, Nursing" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013338" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020638" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039160" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nurses, Pupil" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013338" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020638" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039162" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Nursing" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Pupil Nurses" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013338" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020638" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039163" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Pharmacy" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Pharmacy" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Pharmacy" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013339" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020639" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039167" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Pharmacy" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Pharmacy" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Pharmacy Student" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013339" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020639" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039164" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Pharmacy" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Pharmacy" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Pharmacy Students" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013339" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020639" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039165" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Pharmacy" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Pharmacy" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Student, Pharmacy" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013339" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020639" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039166" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Premedical" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Premedical" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Premedical" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013340" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020640" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039171" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Premedical" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Premedical" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Premedical Student" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013340" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020640" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039168" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Premedical" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Premedical" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Premedical Students" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013340" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020640" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039169" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Premedical" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Premedical" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Student, Premedical" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013340" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020640" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039170" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Health Student, Public" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D040443" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0421531" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T490922" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Health Students, Public" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D040443" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0421531" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T490922" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Public Health Student" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D040443" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0421531" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T490922" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Student, Public Health" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D040443" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0421531" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T490922" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Public Health Students" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D040443" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0421531" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T490923" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Students, Public Health" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D040443" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0421531" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T490922" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surgeons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surgeons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Surgeons" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066231" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0593264" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T858054" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039827" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Host Mother" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039825" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Mother, Host" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039825" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Mothers, Host" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039825" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Mother, Surrogate" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039826" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mother" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039826" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Gestational Mother" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039828" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Mother, Gestational" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039828" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Carrier, Gestational" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039830" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Carriers, Gestational" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039830" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Gestational Carrier" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039830" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Host Mothers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039825" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Mothers, Surrogate" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039826" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Gestational Mothers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039828" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Mothers, Gestational" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039829" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Surrogate Mothers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Gestational Carriers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D013533" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020908" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T039830" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Survivors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Long-Term Survivors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Long Term Survivors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017741" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026807" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T053057" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Survivors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Long-Term Survivors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Long-Term Survivor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017741" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026807" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T053057" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Survivors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Long-Term Survivors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Survivor, Long-Term" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017741" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026807" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T053057" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Survivors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Long-Term Survivors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Survivors, Long-Term" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017741" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026807" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T053057" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Survivors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Long-Term Survivors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Long-Term Survivors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017741" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026807" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T053057" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Survivors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Survivors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Survivor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017741" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026808" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T053058" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Survivors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Survivors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Survivors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017741" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026808" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T053058" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Terminally Ill" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Terminally Ill" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ill, Terminally" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019452" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0028941" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T057992" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Terminally Ill" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Terminally Ill" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Terminally Ill" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019452" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0028941" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T057992" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donor, Tissue" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021583" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041111" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donors, Tissue" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021583" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041111" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021583" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041111" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021579" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041107" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Organ Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donor, Organ" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021580" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041108" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Organ Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donors, Organ" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021580" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041108" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Organ Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Organ Donor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021580" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041108" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ovum Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donor, Ovum" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021581" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041109" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ovum Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donors, Ovum" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021581" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041109" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ovum Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ovum Donor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021581" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041109" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Semen Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donor, Semen" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021582" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041110" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Semen Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donors, Semen" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021582" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041110" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Semen Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Semen Donor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021582" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041110" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021583" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041111" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donor, Transplant" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592356" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856352" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donors, Transplant" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592356" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856352" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Donor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592356" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856352" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021579" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041107" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Organ Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Organ Donors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021580" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041108" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ovum Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ovum Donors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021581" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041109" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Semen Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Semen Donors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021582" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041110" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tissue Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Donors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014019" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592356" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856352" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Two-Spirit Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Person, Two-Spirit" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000616949" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000899313" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Two-Spirit Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Persons, Two-Spirit" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000616949" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000899313" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Two-Spirit Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Two Spirit Persons" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000616949" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000899313" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Two-Spirit Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Two-Spirit Person" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000616949" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000899313" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Person, Transgender" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571147" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818436" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Persons, Transgender" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571147" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818436" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Person" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571147" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818436" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transsexual Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Person, Transsexual" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571148" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818225" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transsexual Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Persons, Transsexual" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571148" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818225" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transsexual Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transsexual Person" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571148" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818225" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Two-Spirit Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Two-Spirit Persons" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000616949" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000899313" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transsexual Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transsexual Persons" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571148" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818225" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571147" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818436" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Person, Transgendered" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571147" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818224" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Persons, Transgendered" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571147" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818224" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transgendered Person" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571147" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818224" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571147" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T821638" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transsexual Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transexual" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571148" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914092" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transgendered Persons" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571147" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T818224" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transgenders" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571147" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T821638" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transgender Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transsexual Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transexuals" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D063106" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0571148" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000914092" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Migrant Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Migrant Worker" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021815" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041515" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Migrant Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Worker, Migrant" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021815" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041515" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Migrant Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Workers, Migrant" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021815" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041515" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Migrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Migrant" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021816" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041516" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Nonmigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nonmigrant" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021817" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041518" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Squatters" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Squatter" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021818" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041519" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transient" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021819" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041520" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Migrants and Transients" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021820" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041521" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Migrant Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Migrant Workers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021815" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041515" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Migrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Migrants" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021816" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041516" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Nonmigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nonmigrants" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021817" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041518" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Squatters" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Squatters" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021818" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041519" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transients" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021819" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041520" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021820" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041521" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Migrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nomad" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021816" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041517" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transients and Migrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Migrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nomads" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014171" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021816" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041517" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Recipients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Recipients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Recipients" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066027" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021832" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041547" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Recipients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Recipients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Recipient, Transplant" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066027" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021832" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041544" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Recipients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Recipients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Recipients, Transplant" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066027" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021832" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041545" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Recipients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Recipients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Transplant Recipient" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066027" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021832" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041546" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Triplets" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Triplets" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Triplet" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014310" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022014" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041898" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Triplets" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Triplets" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Triplets" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014310" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022014" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041898" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trustees" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trustees" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trustee" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014341" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022054" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041964" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trustees" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trustees" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trustees" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014341" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022054" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041964" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Twin" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014427" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022175" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042197" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Twins" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014427" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022175" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042197" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Dizygotic Twin" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014429" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022177" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042201" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Dizygotic Twins" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014429" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022177" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042201" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Twin, Dizygotic" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014429" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022177" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042201" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014429" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022177" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042201" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Fraternal Twin" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014429" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022177" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042202" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Fraternal Twins" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014429" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022177" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042202" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Twin, Fraternal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014429" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022177" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042202" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Dizygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Fraternal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014429" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022177" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042202" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Monozygotic Twin" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014430" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022178" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042204" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Monozygotic Twins" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014430" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022178" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042204" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Twin, Monozygotic" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014430" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022178" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042204" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014430" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022178" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042204" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Identical Twin" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014430" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022178" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042203" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Identical Twins" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014430" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022178" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042203" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Twin, Identical" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014430" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022178" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042203" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Monozygotic" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Twins, Identical" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014430" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022178" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042203" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Immigrant, Undocumented" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882753" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Immigrants, Undocumented" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882753" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrant" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882753" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882753" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Worker" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000607318" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882756" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Worker, Undocumented" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000607318" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882756" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Workers, Undocumented" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000607318" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882756" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Workers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Workers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000607318" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882756" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Illegal Immigrant" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000880721" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Immigrant, Illegal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000880721" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Immigrants, Illegal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000880721" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Alien, Illegal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882754" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Aliens, Illegal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882754" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Illegal Alien" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882754" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Immigrant, Unauthorized" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882760" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Immigrants, Unauthorized" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882760" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Unauthorized Immigrant" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882760" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Alien, Undocumented" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000883396" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Aliens, Undocumented" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000883396" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Alien" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000883396" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Illegal Immigrants" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000880721" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Illegal Aliens" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882754" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Unauthorized Immigrants" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000882760" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Immigrants" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Undocumented Aliens" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069756" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606152" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000883396" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Unrelated Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Unrelated Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donor, Unrelated" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D061349" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0557066" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T789566" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Unrelated Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Unrelated Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Unrelated Donor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D061349" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0557066" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T789566" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Unrelated Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Unrelated Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Donors, Unrelated" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D061349" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0557066" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T789567" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Unrelated Donors" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Unrelated Donors" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Unrelated Donors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D061349" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0557066" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T789566" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Urologists" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Urologists" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Urologist" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000072178" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000616482" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000898391" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Urologists" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Urologists" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Urologists" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000072178" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000616482" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000898391" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegans" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vegans" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vegan" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066989" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597400" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000865622" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegans" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vegans" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vegans" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066989" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597400" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000865622" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarian" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597380" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000865615" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597380" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000865615" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto Ovo Vegetarians" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597831" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000866293" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarian" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597831" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000866293" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarian, Lacto-Ovo" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597831" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000866293" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians, Lacto-Ovo" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597831" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000866293" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarians" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597831" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000866293" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ovo Lacto Vegetarians" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597831" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000866290" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ovo-Lacto Vegetarian" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597831" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000866290" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarian, Ovo-Lacto" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597831" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000866290" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians, Ovo-Lacto" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597831" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000866290" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vegetarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Lacto-Ovo Vegetarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ovo-Lacto Vegetarians" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000066988" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000597831" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000866290" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Veterans" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Veterans" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Veteran" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014728" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022646" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043039" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Veterans" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Veterans" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Veterans" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014728" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022646" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043039" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Veterinarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Veterinarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Veterinarian" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018634" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027927" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T055496" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Veterinarians" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Veterinarians" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Veterinarians" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D018634" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0027927" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T055496" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patient" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014789" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022774" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043254" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014789" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022774" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043254" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Patient Visitors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014789" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022774" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043253" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Patient's Visitors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014789" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022774" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043253" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Patients Visitors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014789" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022774" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043253" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Patients' Visitor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014789" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022774" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043253" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Visitor, Patients'" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014789" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022774" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043253" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors, Patients'" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014789" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022774" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043253" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visitors to Patients" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Patients' Visitors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014789" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022774" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043253" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Impaired Person, Visually" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019987" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0029695" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T059591" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Impaired Persons, Visually" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019987" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0029695" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T059591" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Person, Visually Impaired" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019987" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0029695" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T059591" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Persons, Visually Impaired" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019987" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0029695" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T059591" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Person" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019987" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0029695" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T059591" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019987" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0029695" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T059591" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Blind Person" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019987" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0029695" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T685484" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Person, Blind" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019987" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0029695" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T685484" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Persons, Blind" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019987" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0029695" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T685484" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visually Impaired Persons" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Blind Persons" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D019987" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0029695" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T685484" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Untrained Personnel" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Personnel, Untrained" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022841" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043367" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Untrained Personnel" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Untrained Personnel" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022841" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043367" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteerism" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteerism" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022843" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043370" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Voluntary Worker" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022842" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043368" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Worker, Voluntary" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022842" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043368" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Workers, Voluntary" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022842" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043368" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteer Worker" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022842" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T451622" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Worker, Volunteer" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022842" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T451622" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Workers, Volunteer" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022842" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T451622" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteer" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022842" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T837393" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Voluntary Workers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022842" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043368" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteer Workers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022842" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T451622" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Volunteers" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014838" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022842" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T837393" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Population, Sensitive" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520787" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718747" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Populations, Sensitive" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520787" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718747" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Population" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520787" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718747" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Populations, Underserved" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Population, Underserved" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0562284" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T799578" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Populations, Underserved" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Underserved Population" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0562284" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T799578" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Populations, Underserved" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Underserved Populations" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0562284" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T799578" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Populations" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520787" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718747" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Populations, Underserved" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Populations, Underserved" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0562284" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T799578" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Disadvantaged" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Disadvantaged" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0020079" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T038176" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Group, Sensitive Population" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520787" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718748" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Groups, Sensitive Population" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520787" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718748" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Population Group, Sensitive" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520787" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718748" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Population Groups, Sensitive" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520787" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718748" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Population Group" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520787" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718748" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Populations, Underserved" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Patient, Underserved" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0562284" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T799579" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Populations, Underserved" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Underserved Patient" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0562284" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T799579" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Populations, Underserved" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Underserved Patients" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0562284" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T799579" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Sensitive Population Groups" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520787" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718748" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Populations, Underserved" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Patients, Underserved" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0562284" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T799579" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Population, Vulnerable" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0391263" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T451592" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Populations, Vulnerable" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0391263" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T451592" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Population" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0391263" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T451592" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vulnerable Populations" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D035862" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0391263" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T451592" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Women's Groups" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Women Groups" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014930" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022998" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043616" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Women's Groups" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Women's Group" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014930" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022998" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043616" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Women's Groups" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Women's Groups" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014930" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022998" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043616" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014930" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022994" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043610" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Girl" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014930" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022994" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000890833" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Girls" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014930" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022994" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000890833" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Women" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Woman" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014930" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022994" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043609" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Women, Working" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Women, Working" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Women, Working" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014931" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022999" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043619" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Women, Working" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Women, Working" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Working Woman" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014931" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022999" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043617" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Women, Working" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Women, Working" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Woman, Working" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014931" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022999" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043617" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Women, Working" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Women, Working" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Working Women" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014931" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022999" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043618" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Working Poor" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Working Poor" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Poor, Working" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069602" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606174" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000880767" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Working Poor" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Working Poor" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Working Poor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D000069602" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M000606174" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T000880767" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Young Adult" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Young Adult" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Adult, Young" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D055815" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520806" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718796" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Young Adult" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Young Adult" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Adults, Young" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D055815" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520806" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718796" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Young Adult" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Young Adult" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Young Adults" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D055815" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520806" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718796" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Young Adult" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Young Adult" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Young Adult" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D055815" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0520806" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T718796" }
+      }
+    ]
+  }
+}

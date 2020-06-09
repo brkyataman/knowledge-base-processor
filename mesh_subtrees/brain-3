@@ -1,0 +1,1753 @@
+{
+  "head": {
+    "vars": [ "dL" , "cL" , "tL" , "d" , "c" , "t" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Pituitary TSH Secreting Cells" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649860" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Pituitary TSH-Secreting Cell" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649860" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "TSH-Secreting Cell, Pituitary" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649860" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "TSH-Secreting Cells, Pituitary" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649860" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Pituitary TSH Producing Cells" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649861" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Pituitary TSH-Producing Cell" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649861" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "TSH-Producing Cell, Pituitary" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649861" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "TSH-Producing Cells, Pituitary" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649861" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cell, TSH" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649862" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "TSH Cell" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649862" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Pituitary TSH-Secreting Cells" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649860" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Pituitary TSH-Producing Cells" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649861" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "TSH Cells" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649862" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotroph" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649859" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Thyrotrophs" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D052684" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0488577" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T649859" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Corpus Trapezoideums" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065833" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591281" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856769" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoideum, Corpus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065833" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591281" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856769" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoideums, Corpus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065833" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591281" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856769" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Corpus Trapezoideum" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065833" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591281" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856769" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Body, Trapezoid" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065833" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591281" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T854856" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trapezoid Body" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065833" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591281" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T854856" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Caudal Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Caudal Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Caudal Nucleus, Trigeminal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014275" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021964" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041790" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Caudal Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Caudal Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Trigeminal Caudal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014275" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021964" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041791" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Caudal Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Caudal Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Caudal Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014275" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021964" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041791" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Motor Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Principal Sensory Nucleus of Trigeminal Nerve" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Main Sensory Nucleus of Trigeminal Nerve" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066266" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0593553" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T858515" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Motor Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Principal Sensory Nucleus of Trigeminal Nerve" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Principal Sensory Nucleus of Trigeminal Nerve" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066266" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0593553" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T858514" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Motor Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Motor Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Motor Nucleus of Trigeminal Nerve" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066266" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0593552" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T858513" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Motor Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Motor Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Motor Nucleus, Trigeminal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066266" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0593552" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T858512" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Motor Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Motor Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Trigeminal Motor" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066266" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0593552" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T858512" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Motor Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Motor Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Motor Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066266" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0593552" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T858512" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear Complex, Trigeminal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014278" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021967" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856707" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear Complices, Trigeminal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014278" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021967" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856707" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclear Complices" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014278" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021967" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856707" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclear Complex" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014278" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021967" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856707" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nuclei, Trigeminal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014278" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021967" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041797" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Trigeminal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014278" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021967" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041797" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014278" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021967" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041797" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nuclei" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014278" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021967" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041797" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nucleus, Spinal" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nucleus, Spinal" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Spinal Trigeminal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014279" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021968" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041798" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nucleus, Spinal" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nucleus, Spinal" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Spinal Trigeminal Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014279" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021968" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041798" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nucleus, Spinal" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nucleus, Spinal" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Trigeminal Nucleus, Spinal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014279" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021968" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T041798" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tuber Cinereum" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Tuber Cinereum" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cinereum, Tuber" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014371" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022096" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042048" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tuber Cinereum" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Tuber Cinereum" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cinereums, Tuber" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014371" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022096" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042048" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tuber Cinereum" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Tuber Cinereum" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Tuber Cinereums" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014371" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022096" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042048" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Tuber Cinereum" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Tuber Cinereum" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Tuber Cinereum" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014371" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022096" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042048" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Striatum" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Striatum" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Striatum, Ventral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066328" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332426" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363549" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Striatum" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Striatum" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Striatum" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066328" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332426" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363549" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Area Tegmentalis Ventrali" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017557" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026617" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856804" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Tegmentalis Ventrali, Area" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017557" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026617" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856804" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Tegmentalis Ventralis, Area" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017557" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026617" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856804" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Area Tegmentalis Ventralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017557" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026617" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856804" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area of Tsai" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017557" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026617" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856805" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Tegmental Area, Ventral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017557" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026617" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T052645" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Tegmental Area" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D017557" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0026617" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T052645" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Anterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Ventral Anterior" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332373" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363423" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Ventral Lateral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363425" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Ventrolateral Thalamic" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363429" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Thalamic Nucleus, Ventrolateral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363429" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Intermedius, Nucleus Ventralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856886" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventralis Intermedius, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856886" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Laterali, Nucleus Ventralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856887" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Lateralis, Nucleus Ventralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856887" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Ventralis Laterali" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856887" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventralis Laterali, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856887" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventralis Lateralis, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856887" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Ventrolateralis Thalamus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856888" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Thalami, Nucleus Ventrolateralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856888" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Thalamus, Nucleus Ventrolateralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856888" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventrolateralis Thalami, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856888" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventrolateralis Thalamus, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856888" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Thalamus, Ventrolateral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T859749" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Inferior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Ventral Posteroinferior" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332375" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363427" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Inferior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Posteroinferior Nucleus, Ventral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332375" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363427" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Ventral Posterior" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363430" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Posterior Nucleus, Ventral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363430" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Ventralis Posteriors" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856882" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Posterior, Nucleus Ventralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856882" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Posteriors, Nucleus Ventralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856882" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventralis Posterior, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856882" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventralis Posteriors, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856882" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Complex, Ventrobasal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856883" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Complices, Ventrobasal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856883" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventrobasal Complices" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856883" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Ventral Posterolateral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332377" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363432" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Posterolateral Nucleus, Ventral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332377" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363432" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Ventralis Posterolaterali" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332377" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856880" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Posterolaterali, Nucleus Ventralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332377" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856880" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Posterolateralis, Nucleus Ventralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332377" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856880" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventralis Posterolaterali, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332377" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856880" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventralis Posterolateralis, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332377" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856880" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Ventral Posteromedial" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363434" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Posteromedial Nucleus, Ventral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363434" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Arcuate Nucleus 3" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856877" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Ventralis Posteromediali" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856878" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Posteromediali, Nucleus Ventralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856878" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Posteromedialis, Nucleus Ventralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856878" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventralis Posteromediali, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856878" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventralis Posteromedialis, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856878" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Anterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Anterior Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332373" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363423" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363425" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventrolateral Thalamic Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363429" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nuclei" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856884" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Ventralis Intermedius" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856886" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Ventralis Lateralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856887" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Ventrolateralis Thalami" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856888" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventrolateral Thalamus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T859749" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Inferior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteroinferior Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332375" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363427" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Inferior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Inferior Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332375" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856876" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363430" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Ventralis Posterior" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856882" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventrobasal Complex" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856883" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332377" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363432" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Ventralis Posterolateralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332377" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856880" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363434" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Arcuate Nucleus-3" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856877" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Ventralis Posteromedialis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856878" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Medial Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856879" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Anterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Anterior Thalamic Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332373" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363422" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Lateral Thalamic Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332374" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363424" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Inferior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Inferior Thalamic Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332375" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363426" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterior Thalamic Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332376" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363428" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posterolateral Thalamic Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332377" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363431" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Posteromedial Thalamic Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0332378" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363433" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Group, Ventral Nuclear" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363420" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear Group, Ventral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363420" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Nuclear Groups" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363420" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Mass, Ventral Nuclear" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856889" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Masses, Ventral Nuclear" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856889" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear Mass, Ventral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856889" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear Masses, Ventral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856889" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Nuclear Masses" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856889" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Nuclear Group" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363420" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Nuclei of Thalamus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T363421" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Nuclear Mass" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856889" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nuclei, Ventral Thalamic" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T358588" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Ventral Thalamic" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T358588" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Thalamic Nuclei, Ventral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T358588" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Thalamic Nucleus, Ventral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T358588" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T358588" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventral Thalamic Nuclei" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D020651" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0328588" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T358588" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventromedial Hypothalamic Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventromedial Hypothalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Hypothalamic Nucleus, Ventromedial" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014697" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022602" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042984" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventromedial Hypothalamic Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventromedial Hypothalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Ventromedial Hypothalamic" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014697" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022602" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042985" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Ventromedial Hypothalamic Nucleus" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Ventromedial Hypothalamic Nucleus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Ventromedial Hypothalamic Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014697" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022602" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T042985" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Medial" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Schwalbe's" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014726" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022643" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043036" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Medial" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Schwalbes Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014726" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022643" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043036" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Medial" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Schwalbe" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014726" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022643" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T364671" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Medial" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Schwalbe's Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014726" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022643" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043036" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Medial" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Schwalbe Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014726" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022643" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T364671" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Medial" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Medial Vestibular Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014726" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022643" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T364670" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Medial" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Medial Vestibular" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014726" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022643" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T364670" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nuclei, Vestibular" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014726" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022644" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043037" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Medial" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Medial" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014726" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022643" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T364670" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nuclei" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014726" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022644" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043037" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Deiters Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T010747" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Deiter's" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T010747" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Deiter" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T364677" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Vestibularis Laterali" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856749" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibularis Laterali, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856749" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibularis Lateralis, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856749" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Vestibularis Magnocellulari" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856750" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibularis Magnocellulari, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856750" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibularis Magnocellularis, Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856750" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Deiter's Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T010747" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Lateral Vestibular Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T364676" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Deiter Nucleus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T364677" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Vestibularis Lateralis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856749" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus Vestibularis Magnocellularis" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856750" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus of Deiters" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T859754" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Nucleus, Lateral Vestibular" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T364675" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Vestibular Nucleus, Lateral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D003689" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0005769" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T364675" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cortex Primaries, Visual" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853766" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cortex Primary, Visual" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853766" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Primaries, Visual Cortex" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853766" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Primary, Visual Cortex" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853766" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex Primaries" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853766" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cortex, Primary Visual" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853767" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cortices, Primary Visual" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853767" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Primary Visual Cortices" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853767" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex, Primary" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853767" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortices, Primary" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853767" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex Primary" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853766" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Primary Visual Cortex" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853767" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cortex, Striate" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043260" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Extrastriate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cortex, Extrastriate" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0590582" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853770" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Extrastriate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cortices, Extrastriate" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0590582" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853770" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Extrastriate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Extrastriate Cortices" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0590582" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853770" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Striate Cortex" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022777" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043260" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Extrastriate Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Extrastriate Cortex" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0590582" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853770" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cortex, Visual" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022778" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043261" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Visual Cortex" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D014793" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0022778" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T043261" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Left Posterior Superior Temporal Gyrus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Posterior Superior Temporal Gyrus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065813" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592156" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853788" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Left Posterior Superior Temporal Gyrus" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Left Posterior Superior Temporal Gyrus" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065813" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592156" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856073" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Area, Wernicke's" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065813" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021150" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853787" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Wernickes Area" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065813" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021150" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853787" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Sensorisches Sprachzentrums" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065813" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021150" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856735" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Sprachzentrum, Sensorisches" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065813" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021150" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856735" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Sprachzentrums, Sensorisches" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065813" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021150" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856735" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke's Area" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065813" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021150" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T853787" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Sensorisches Sprachzentrum" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065813" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021150" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T856735" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Area, Wernicke" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065813" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021150" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T040262" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Wernicke Area" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065813" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0021150" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T040262" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Cerebellar White Matter" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cerebellar White Matters" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066127" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592760" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T857279" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Cerebellar White Matter" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Matter, Cerebellar White" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066127" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592760" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T857279" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Cerebellar White Matter" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Matters, Cerebellar White" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066127" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592760" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T857279" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Cerebellar White Matter" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter, Cerebellar" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066127" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592760" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T857279" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Cerebellar White Matter" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "White Matters, Cerebellar" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066127" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592760" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T857279" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Matter, White" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066127" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592773" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T857280" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Matters, White" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066127" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592773" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T857280" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "White Matters" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066127" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592773" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T857280" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Cerebellar White Matter" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Cerebellar White Matter" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066127" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592760" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T857279" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "White Matter" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D066127" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0592773" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T857280" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Incerta" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Caudal Zona Incerta" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Incerta, Caudal" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065820" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591176" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T854656" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Incerta" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Rostral Zona Incerta" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Incerta, Rostral" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065820" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591177" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T854657" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Incerta" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Medial Zona Inserta" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Inserta, Medial" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065820" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591178" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T854658" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Incerta" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Caudal Zona Incerta" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Caudal Zona Incerta" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065820" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591176" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T854656" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Incerta" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Rostral Zona Incerta" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Rostral Zona Incerta" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065820" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591177" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T854657" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Incerta" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Medial Zona Inserta" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Medial Zona Inserta" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065820" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0591178" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T854658" }
+      } ,
+      {
+        "dL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Incerta" } ,
+        "cL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Incerta" } ,
+        "tL": { "type": "literal" , "xml:lang": "en" , "value": "Zona Incerta" } ,
+        "d": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/D065820" } ,
+        "c": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/M0337473" } ,
+        "t": { "type": "uri" , "value": "http://id.nlm.nih.gov/mesh/T372783" }
+      }
+    ]
+  }
+}
