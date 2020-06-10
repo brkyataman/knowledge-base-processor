@@ -16,10 +16,10 @@ class WordEmbeddingBuilder:
         nltk.download('stopwords')
         nltk.download('punkt')
 
-    def build_model(self, data):
+    def build_model(self, data, model_name):
         print("building word embedding")
         model = self.train_model(data)
-        self.save_model(model, "model")
+        self.save_model(model, model_name)
         print("build finished")
 
     def train_model(self, data):
@@ -50,7 +50,7 @@ class WordEmbeddingBuilder:
             pyplot.annotate(word, xy=(result[i, 0], result[i, 1]))
         pyplot.show()
 
-    def create_ontology_we_model(self, ontology_terms, base_model_name):
+    def create_ontology_term_model(self, ontology_terms, base_model_name):
         base_model = WordEmbeddingHelper.load_model(self.model_dir + "/" + base_model_name)
         ontology_model = Word2Vec()
 
@@ -75,7 +75,7 @@ class WordEmbeddingBuilder:
                 ontology_model.wv.add(term + ":" + ontology_terms[term]["id"], avg_vector)
                 inserted_item_num += 1
 
-        self.save_model(ontology_model, "ont_model")
+        self.save_model(ontology_model, "term_model")
 
         print(f"{inserted_item_num} items added to model")
         return normalised_terms

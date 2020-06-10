@@ -19,7 +19,7 @@ def greetings():
 
 @app.route('/similars/<input>')
 def get_similars(input):
-    similars = wordEmbeddingManager.get_similars(query=input, topn=5)
+    similars = wordEmbeddingManager.get_similar_terms(query=input, topn=5)
     return jsonify(similars)
 
 @app.route('/query', methods=["POST"])
@@ -32,8 +32,6 @@ def query():
 
     return jsonify(result)
 
-
-
 def GetDbConnection():
     return pymysql.connect(host='localhost',
         user='root',
@@ -41,5 +39,6 @@ def GetDbConnection():
         db='testdb',
         charset='utf8mb4',
         cursorclass=pymysql.cursors.DictCursor)
+
 
 app.run(debug=True)

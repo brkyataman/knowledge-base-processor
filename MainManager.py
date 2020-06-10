@@ -16,7 +16,7 @@ def preparing(process_data=False, build_we_model=False, build_new_ontology_we_mo
 
     if build_we_model is True:
         processed_data = WordEmbeddingHelper.load_processed_data()
-        we_builder.build_model(processed_data)
+        we_builder.build_model(processed_data, model_name="vector_model")
     # step 1 finished
 
     # step 2 Get OntologyTerms as List
@@ -25,7 +25,7 @@ def preparing(process_data=False, build_we_model=False, build_new_ontology_we_mo
 
     # step 3 Build new vectors on WE
     if build_new_ontology_we_model is True:
-        we_builder.create_ontology_we_model(ontology_terms=local_ont_terms, base_model_name="model")
+        we_builder.create_ontology_term_model(ontology_terms=local_ont_terms, base_model_name="vector_model")
     else:
         print("Extending ontology WE model is not implemented yet..")
     # step 3 finished
