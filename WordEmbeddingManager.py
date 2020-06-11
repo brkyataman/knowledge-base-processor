@@ -8,13 +8,13 @@ class WordEmbeddingManager:
         self.model_dir = 'my_models'
 
     # Returns formatted list of "get_similar_words"
-    def get_similar_terms(self, word, topn=5):
+    def get_similar_terms(self, word, source_model="term_model",topn=5):
         similar_terms = []
         word_vector = self.get_vector_of_word(word)
         if len(word_vector) == 0:
             return []
 
-        term_model = WordEmbeddingHelper.load_model("my_models/term_model")
+        term_model = WordEmbeddingHelper.load_model("my_models/" + source_model)
         unformatted_similars = term_model.wv.most_similar(positive=[word_vector], topn=topn)
 
         for sim in unformatted_similars:

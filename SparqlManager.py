@@ -9,12 +9,12 @@ class SparqlManager:
         self.db = "neuroboun_clean"
 
     # Returns intersected related articles of given Ontology Term list
-    def get_related_articles_of_list(self, term_id_list):
+    def get_related_articles_of_list(self, term_id_list, min_sim_score):
         result = {}
         intersected_articles = []
         i = 0
         for term_id in term_id_list:
-            details, articles = self.get_related_articles(term_id)
+            details, articles = self.get_related_articles(term_id, min_sim_score)
             result[term_id] = details
             if i == 0:
                 intersected_articles.extend(articles)
@@ -29,7 +29,7 @@ class SparqlManager:
         return result, list(intersected_articles)
 
 
-    def get_related_articles(self, term_id):
+    def get_related_articles(self, term_id, min_sim_score=0.8):
         q = '''
                         PREFIX owl: <http://www.w3.org/2002/07/owl#>
         				PREFIX nboun: <http://www.semanticweb.org/berkay.ataman/ontologies/2020/3/neuroboun_ontology#>
@@ -47,7 +47,7 @@ class SparqlManager:
         					  nboun:similarityScore ?sim .
         					?a nboun:contains ?p .
         					bind( if((?ot=?d),?dL,if((?ot=?c),?cL,?tL)) as ?otL ) .
-        				  FILTER(((?ot=?d) || (?ot=?c) || (?ot=?t)) && (?sim > 0.8))
+        				  FILTER(((?ot=?d) || (?ot=?c) || (?ot=?t)) && (?sim > %s))
 
         				}
                 '''
@@ -60,7 +60,7 @@ class SparqlManager:
                              ?dt meshv:concept ?ct ;
                                  rdf:type meshv:Descriptor .
         					 ?d meshv:broaderDescriptor* ?dt ;
-        						  rdfs:label ?dName . 
+        						  rdfs:label ?dL . 
         					 ?d meshv:concept ?c .
         					 ?c rdfs:label ?cL .
         					 ?c meshv:term ?t .
@@ -73,7 +73,7 @@ class SparqlManager:
                                          ?dc meshv:concept mesh:%s ;
                                              rdf:type meshv:Descriptor .
                     					 ?d meshv:broaderDescriptor* ?dc ;
-                    						  rdfs:label ?dName . 
+                    						  rdfs:label ?dL . 
                     					 ?d meshv:concept ?c .
                     					 ?c rdfs:label ?cL .
                     					 ?c meshv:term ?t .
@@ -84,7 +84,7 @@ class SparqlManager:
             mesh_query = '''
                         SERVICE<http://id.nlm.nih.gov/mesh/sparql?inference=true>{
         					 ?d meshv:broaderDescriptor* mesh:%s ;
-        						  rdfs:label ?dName . 
+        						  rdfs:label ?dL . 
         					 ?d meshv:concept ?c .
         					 ?c rdfs:label ?cL .
         					 ?c meshv:term ?t .
@@ -92,7 +92,7 @@ class SparqlManager:
                         }
             '''
 
-        q = q % mesh_query
+        q = q % (mesh_query, min_sim_score)
         q = q % term_id
 
         response = self.query_fuseki(q)
@@ -104,6 +104,8 @@ class SparqlManager:
             f["phrase"] = item["p"]["value"].split("ontology#")[1]
             f["phrase_label"] = item["pL"]["value"]
             f["ontology_term"] = item["ot"]["value"].split("mesh/")[1]
+            f["ontology_desc"] = item["otL"]["value"]
+            f["sim_score"] = item["sim"]["value"]
             formatted_response.append(f)
             if f["article"] not in unique_articles:
                 unique_articles.append(f["article"])

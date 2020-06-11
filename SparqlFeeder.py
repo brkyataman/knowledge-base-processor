@@ -1,5 +1,7 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 import pymysql
+from WordEmbeddingManager import WordEmbeddingManager
+import time
 
 def get_db_connection():
     return pymysql.connect(host='localhost',
@@ -19,6 +21,14 @@ def insert_to_sparql(query):
     return results
 
 
+def query_fuseki(query):
+    sparql = SPARQLWrapper("http://localhost:3030/neuroboun_clean/query")
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    results = sparql.query().convert()
+    return results["results"]["bindings"]
+
+
 def get_phrases(article_id):
     with get_db_connection() as con:
         query = """
@@ -34,13 +44,11 @@ def get_phrases(article_id):
     return rows
 
 
-def get_phrase_ontologyterm_pairs():
+def get_phrases():
     with get_db_connection() as con:
         query = """
-        select phrase_id, description, first_sim, first_sim_uri, first_sim_point, added_to_fuseki
+        select phrase_id, description
         from phrases
-        where first_sim_uri is null
-        and first_sim <> ""
         """
         con.execute(query)
         rows = con.fetchall()
@@ -234,21 +242,62 @@ def add_article_to_fuseki(article_id):
     queryString = queryString % ("ART%s" % article_id)
     insert_to_sparql(queryString)
 
-def feed_fuseki_with_phrase_ontologyterm_pairs():
-    rows = get_phrase_ontologyterm_pairs()
-    terms = read_added_ontology_terms()
 
-    for row in rows:
-        if row["first_sim"] in terms:
-            term = terms[row["first_sim"]]
-            uri = term["uri"]
-            mesh_id = uri.split("mesh/")[1]
-            phrase = row["description"]
-            sim_score = row["first_sim_point"]
 
-            add_sim_to_fuseki(phrase.replace("\"", ""), mesh_id, sim_score, row["phrase_id"])
-            update_mysql(row["phrase_id"], uri)
-    return terms
+def is_phrase_term_rel_exist(phrase_id, term):
+    queryString = """       PREFIX owl: <http://www.w3.org/2002/07/owl#>
+                         PREFIX nboun: <http://www.semanticweb.org/berkay.ataman/ontologies/2020/3/neuroboun_ontology#>
+                         PREFIX mesh: <http://id.nlm.nih.gov/mesh/>
+                         PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+                         PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+                         PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+                            SELECT ?l
+                            WHERE {
+                              nboun:%s nboun:isSimilarTo mesh:%s;
+                                        rdfs:label ?l .
+                            }
+                         """
+    queryString = queryString % (("PH%s" % phrase_id), term)
+    result = query_fuseki(queryString)
+
+    if len(result) == 0:
+        return False;
+    return True;
+
+
+
+def insert_similarity(phrases, source_model="term_model", sim_threshold=0):
+    we_manager = WordEmbeddingManager()
+    inserted_items = []
+    error_items = []
+
+    for phrase in phrases:
+        try:
+            id = phrase["phrase_id"]
+            word = phrase["description"]
+            similars = we_manager.get_similar_terms(word, source_model=source_model)
+            if len(similars) == 0 or similars[0]["score"] < sim_threshold:
+                continue;
+            sim = similars[0]
+            # if is_phrase_term_rel_exist(id, sim["id"]) == False:
+            add_sim_to_fuseki(phrase=word, mesh_id=sim["id"], sim_score=sim["score"], phrase_id=id)
+            inserted_items.append({"phrase_id":id, "phrase": word, "mesh_id": sim["id"], "mesh_desc": sim["name"], "sim_score": sim["score"]})
+        except Exception:
+            error_items.append({"phrase_id":id, "phrase": word})
+            print("error on word '%s'" % phrase)
+
+    timestr = time.strftime("%Y%m%d-%H%M")
+    filename = 'fuseki_feed%s.txt' % timestr
+    with open(filename, 'w') as f:
+        for item in inserted_items:
+            f.write("%s\n" % item)
+
+    timestr = time.strftime("%Y%m%d-%H%M")
+    filename = 'fuseki_feed_error%s.txt' % timestr
+    with open(filename, 'w') as f:
+        for item in error_items:
+            f.write("%s\n" % item)
 
 
 def get_articles():
@@ -305,7 +354,10 @@ def feed_fuseki_with_article_phrase_rel():
 
 #feed_fuseki_with_articles()
 #feed_fuseki_with_article_phrase_rel()
-feed_fuseki_with_phrase_ontologyterm_pairs()
+
+
+# phrases = get_phrases()
+# insert_similarity(phrases)
 
 #22173014
 #feed_ontology_terms()

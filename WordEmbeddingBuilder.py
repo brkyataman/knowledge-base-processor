@@ -50,7 +50,7 @@ class WordEmbeddingBuilder:
             pyplot.annotate(word, xy=(result[i, 0], result[i, 1]))
         pyplot.show()
 
-    def create_ontology_term_model(self, ontology_terms, base_model_name):
+    def create_ontology_term_model(self, ontology_terms, base_model_name, new_model_name="term_model"):
         base_model = WordEmbeddingHelper.load_model(self.model_dir + "/" + base_model_name)
         ontology_model = Word2Vec()
 
@@ -75,7 +75,7 @@ class WordEmbeddingBuilder:
                 ontology_model.wv.add(term + ":" + ontology_terms[term]["id"], avg_vector)
                 inserted_item_num += 1
 
-        self.save_model(ontology_model, "term_model")
+        self.save_model(ontology_model, new_model_name)
 
         print(f"{inserted_item_num} items added to model")
         return normalised_terms

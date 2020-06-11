@@ -1,8 +1,9 @@
 import WordEmbeddingHelper
 import MeshHelper
 from WordEmbeddingBuilder import WordEmbeddingBuilder
+import SparqlFeeder
 
-subtrees = ['brain', 'persons']
+subtrees = ['mammals','brain', 'persons']
 
 
 #stage 1
@@ -30,4 +31,10 @@ def preparing(process_data=False, build_we_model=False, build_new_ontology_we_mo
         print("Extending ontology WE model is not implemented yet..")
     # step 3 finished
 
-preparing()
+
+def build_similarities():
+    phrases = SparqlFeeder.get_phrases()
+    SparqlFeeder.insert_similarity(phrases)
+
+
+build_similarities()

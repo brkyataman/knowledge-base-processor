@@ -66,6 +66,7 @@
                         dataType: 'json',
                         data: JSON.stringify({
                             "list" : query_list,
+                            "min_sim_score": document.getElementById("min_sim_score").value
                         }),
                         success: function (data) {
                             console.log("Updated phrase")
@@ -87,7 +88,8 @@
                             for (var key in details){
                                 pd.append("" + key + "<br>");
                                 details[key].forEach(function(d){
-                                    pd.append("&emsp;phrase label:<b>" + d.phrase_label + "</b> to ontology term: " + d.ontology_term + " in article "+ d.article + "<br>")
+                                    mesh_link = "https://id.nlm.nih.gov/mesh/" + d.ontology_term+ ".html"
+                                    pd.append("&emsp;phrase label:<b>" + d.phrase_label + "</b> to ontology term: <b>" + d.ontology_desc + "</b>(" + d.ontology_term.link(mesh_link) + ") in article "+ d.article + " Similarity: " +  + d.sim_score + "<br>")
                                 })
                               console.log( key, details[key] );
                             }
@@ -116,6 +118,7 @@
 
             <ul id="place_for_query_list">
             </ul>
+            Minimum Similarity Threshold: <input id="min_sim_score" pattern="^\d*(\.\d{0,2})?$" placeholder="Minimum Similarity Threshold" value="0.8" size="1"/>
             <button type="button" onclick="query()">Find</button>
 
             <h2>Articles</h2>
