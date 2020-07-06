@@ -1,7 +1,10 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 import pymysql
 from WordEmbeddingManager import WordEmbeddingManager
+from FastTextBuilder import FastTextBuilder
 import time
+
+db = "neuroboun_fasttext"
 
 def get_db_connection():
     return pymysql.connect(host='localhost',
@@ -13,7 +16,7 @@ def get_db_connection():
 
 
 def insert_to_sparql(query):
-    sparql = SPARQLWrapper("http://localhost:3030/neuroboun_clean/update")
+    sparql = SPARQLWrapper("http://localhost:3030/"+ db +"/update")
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
     #sparql.setMethod('POST')
@@ -22,7 +25,7 @@ def insert_to_sparql(query):
 
 
 def query_fuseki(query):
-    sparql = SPARQLWrapper("http://localhost:3030/neuroboun_clean/query")
+    sparql = SPARQLWrapper("http://localhost:3030/"+ db +"/query")
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
@@ -268,7 +271,9 @@ def is_phrase_term_rel_exist(phrase_id, term):
 
 
 def insert_similarity(phrases, source_model="term_model", sim_threshold=0):
-    we_manager = WordEmbeddingManager()
+    # we_manager = WordEmbeddingManager()
+    we_manager = FastTextBuilder()
+
     inserted_items = []
     error_items = []
 
@@ -276,15 +281,15 @@ def insert_similarity(phrases, source_model="term_model", sim_threshold=0):
         try:
             id = phrase["phrase_id"]
             word = phrase["description"]
-            similars = we_manager.get_similar_terms(word, source_model=source_model)
+            similars = we_manager.get_similar_terms(word, source_model=source_model, topn=1)
             if len(similars) == 0 or similars[0]["score"] < sim_threshold:
                 continue;
             sim = similars[0]
             # if is_phrase_term_rel_exist(id, sim["id"]) == False:
             add_sim_to_fuseki(phrase=word, mesh_id=sim["id"], sim_score=sim["score"], phrase_id=id)
-            inserted_items.append({"phrase_id":id, "phrase": word, "mesh_id": sim["id"], "mesh_desc": sim["name"], "sim_score": sim["score"]})
+            inserted_items.append({"phrase_id": id, "phrase": word, "mesh_id": sim["id"], "mesh_desc": sim["name"], "sim_score": sim["score"]})
         except Exception:
-            error_items.append({"phrase_id":id, "phrase": word})
+            error_items.append({"phrase_id": id, "phrase": word})
             print("error on word '%s'" % phrase)
 
     timestr = time.strftime("%Y%m%d-%H%M")
@@ -352,12 +357,12 @@ def feed_fuseki_with_article_phrase_rel():
         add_article_pair_rel_to_fuseki(pair["article_id"], pair["phrase_id"])
 
 
-#feed_fuseki_with_articles()
-#feed_fuseki_with_article_phrase_rel()
+# feed_fuseki_with_articles()
+# feed_fuseki_with_article_phrase_rel()
 
 
-# phrases = get_phrases()
-# insert_similarity(phrases)
+phrases = get_phrases()
+insert_similarity(phrases)
 
 #22173014
 #feed_ontology_terms()

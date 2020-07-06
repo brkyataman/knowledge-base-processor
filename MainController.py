@@ -6,10 +6,12 @@ import json
 import pymysql
 from WordEmbeddingManager import WordEmbeddingManager
 from SparqlManager import SparqlManager
+from FastTextBuilder import FastTextBuilder
 
 app = Flask(__name__)
 wordEmbeddingManager = WordEmbeddingManager()
-sparqlManager = SparqlManager()
+fastTextBuilder = FastTextBuilder()
+sparqlManager = SparqlManager("neuroboun_fasttext")
 
 
 @app.route('/')
@@ -19,7 +21,8 @@ def greetings():
 
 @app.route('/similars/<input>')
 def get_similars(input):
-    similars = wordEmbeddingManager.get_similar_terms(word=input, topn=5)
+    #similars = wordEmbeddingManager.get_similar_terms(word=input, topn=5)
+    similars = fastTextBuilder.get_similar_terms(word=input,topn=5)
     return jsonify(similars)
 
 

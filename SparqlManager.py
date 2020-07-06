@@ -4,9 +4,9 @@ import pymysql
 
 class SparqlManager:
 
-    def __init__(self):
+    def __init__(self, db="neuroboun_clean"):
         self.base_address = "http://localhost:3030"
-        self.db = "neuroboun_clean"
+        self.db = db
 
     # Returns intersected related articles of given Ontology Term list
     def get_related_articles_of_list(self, term_id_list, min_sim_score):

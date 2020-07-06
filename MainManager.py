@@ -2,9 +2,7 @@ import WordEmbeddingHelper
 import MeshHelper
 from WordEmbeddingBuilder import WordEmbeddingBuilder
 import SparqlFeeder
-
 subtrees = ['mammals','brain', 'persons']
-
 
 #stage 1
 def preparing(process_data=False, build_we_model=False, build_new_ontology_we_model=True):
