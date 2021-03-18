@@ -361,8 +361,8 @@ def feed_fuseki_with_article_phrase_rel():
 # feed_fuseki_with_article_phrase_rel()
 
 
-phrases = get_phrases()
-insert_similarity(phrases)
+# phrases = get_phrases()
+# insert_similarity(phrases)
 
 #22173014
 #feed_ontology_terms()

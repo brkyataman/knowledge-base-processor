@@ -1,8 +1,12 @@
 import json
 import glob
-
+import obonet
+import re
 
 def get_local_ontology_terms(subtrees=["brain", "persons"]):
+    if subtrees[0] == "ontobiotope":
+        return get_ontobiotope_terms()
+
     data = load_local_subtrees(subtrees)
     terms = {}
     for item in data:
@@ -23,6 +27,8 @@ def get_local_ontology_terms(subtrees=["brain", "persons"]):
     return terms
 
 
+
+
 def load_local_subtrees(subtrees=[], path='mesh_subtrees'):
     if len(subtrees) == 0:
         raise Exception("no subtrees found..")
@@ -38,3 +44,21 @@ def load_local_subtrees(subtrees=[], path='mesh_subtrees'):
             local_data.extend(data["results"]["bindings"])
 
     return local_data
+
+
+
+def get_ontobiotope_terms():
+    terms = {}
+    graph = obonet.read_obo("OntoBiotope_BioNLP-OST-2019.obo")
+    for id_, data in graph.nodes(data=True):
+        try:
+            if not id_ or not data["name"]:
+                continue
+            terms[data["name"]] = {"uri": id_, "id": id_.split("OBT:")[1], "existInModel": 0}
+            if "synonym" in data:
+                for synonym in data["synonym"]:
+                    synonym_name = re.findall(r'"([^"]*)"', synonym)[0]
+                    terms[synonym_name] = {"uri": id_, "id": id_.split("OBT:")[1], "existInModel": 0}
+        except:
+            print("Problem!")
+    return terms

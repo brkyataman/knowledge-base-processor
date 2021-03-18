@@ -58,13 +58,16 @@ class WordEmbeddingBuilder:
         inserted_item_num = 0
         for term in ontology_terms:
             vectors_of_term = []
-            words = term.split(' ')
+            # words = term.split(' ')
+            words = WordEmbeddingHelper.preprocess(term)
             has_unknown_word = False
             for word in words:
                 if word not in base_model.wv:
                     has_unknown_word = True
                     break
                 vectors_of_term.append(base_model.wv.get_vector(word))
+            if len(words) == 0:
+                has_unknown_word = True
 
             if has_unknown_word is False:
                 avg_vector = [0] * len(vectors_of_term[0])

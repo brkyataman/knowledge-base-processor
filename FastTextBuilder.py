@@ -10,33 +10,34 @@ class FastTextBuilder:
 
     def __init__(self):
         # Set file names for train and test data
-        self.model_path = 'my_models/ft_gensim_model'
+        self.model_dir = 'my_models'
         self.term_model = self.load_model(path="my_models/ft_term_model")
         self.vector_model = self.load_model(path="my_models/ft_gensim_model")
 
-    def build_model(self):
-        sentences = WordEmbeddingHelper.load_processed_data("processed/preprocessed_data.txt")
+    def build_model(self, data, model_name="ft_gensim_model"):
         model_gensim = FastText(size=100, sg=1, min_count=3)
 
         print("starting to training..")
         start_time = time.time()
-        model_gensim.build_vocab(sentences=sentences)
-        model_gensim.train(sentences=sentences, epochs=model_gensim.epochs,
+        model_gensim.build_vocab(sentences=data)
+        model_gensim.train(sentences=data, epochs=model_gensim.epochs,
                            total_examples=model_gensim.corpus_count, total_words=model_gensim.corpus_total_words)
         training_time = (time.time() - start_time)
         print("training finished in %s seconds" % training_time)
-        print(model_gensim)
+
         # saving a model trained via Gensim's fastText implementation
-        model_gensim.save(self.model_path)
+        model_gensim.save(self.model_dir + "/" + model_name)
         print("ft model saved")
 
 
-    def load_model(self, path="my_models/ft_gensim_model"):
+    def load_model(self, path):
+        if path == "":
+            raise Exception("Path is missing to load Fasttext model")
         return FastText.load(path)
 
 
-    def create_ontology_term_model(self, ontology_terms, base_model_name, new_model_name="ft_term_model"):
-        base_model = self.load_model()
+    def create_ontology_term_model(self, ontology_terms, base_model_name, new_model_name):
+        base_model = self.load_model(self.model_dir + "/" + base_model_name)
         ontology_model = FastText(size=100)
 
         normalised_terms = {}
@@ -45,13 +46,16 @@ class FastTextBuilder:
         unknown_term = 0
         for term in ontology_terms:
             vectors_of_term = []
-            words = term.split(' ')
+            # words = term.split(' ')
+            words = WordEmbeddingHelper.preprocess(term)
             has_unknown_word = False
             for word in words:
                 if word not in base_model.wv:
                     has_unknown_word = True
                     break
                 vectors_of_term.append(base_model.wv.get_vector(word))
+            if len(words) == 0:
+                has_unknown_word = True
 
             if has_unknown_word is False:
                 avg_vector = [0] * len(vectors_of_term[0])
